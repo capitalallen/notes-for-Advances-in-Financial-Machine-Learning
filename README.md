@@ -1,5 +1,4 @@
-# 
-Study note for the book <Advances in Financial Machine Learning> by MarCos Lopez De Prado
+## Study note for the book <Advances in Financial Machine Learning> by MarCos Lopez De Prado
 
 - [x] Chapter 2: Financial Data Structures.
 - [x] Chapter 3: Labeling.  
