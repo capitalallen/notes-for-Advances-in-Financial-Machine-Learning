@@ -1,7 +1,7 @@
 # 
 Study note for the book <Advances in Financial Machine Learning> by MarCos Lopez De Prado
 
-- [ ] Chapter 2: Financial Data Structures.
+- [x] Chapter 2: Financial Data Structures.
 - [x] Chapter 3: Labeling.  
 - [x] Chapter 4: Sample Weights.  
 - [x] Chapter 5: Fractionally Differentiated Features.  
