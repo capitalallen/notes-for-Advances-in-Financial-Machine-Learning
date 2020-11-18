@@ -1,6 +1,10 @@
 # 
 Study note for the book <Advances in Financial Machine Learning> by MarCos Lopez De Prado
-
+- [ ] Mercury
+- [x] Venus
+- [x] Earth (Orbit/Moon)
+- [x] Mars
+- [ ] Jupiter
     - [x] Chapter 2: Financial Data Structures.
     - [x] Chapter 3: Labeling.  
     - [x] Chapter 4: Sample Weights.  
